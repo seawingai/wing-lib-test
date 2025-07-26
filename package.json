@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@seawingai/wingdate": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "ts-node": "10.9.1",
+    "typescript": "~5.8.3"
+  }
+}
