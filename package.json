@@ -9,7 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@seawingai/wingdate": "^1.0.1"
+    "@seawingai/wingdate": "^1.0.1",
+    "@seawingai/winglog": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^20.19.9",

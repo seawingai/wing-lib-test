@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "../../wingdate"
+		},
+		{
+			"path": "../../wingdb"
+		},
+		{
+			"path": "../../ai-marketing-agent/server/libs"
+		},
+		{
+			"path": "../../winglog"
 		}
 	],
 	"settings": {}
