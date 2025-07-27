@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "age": 28,
+    "role": "user",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "username": "janesmith",
+    "age": 32,
+    "role": "admin",
+    "createdAt": "2024-01-10T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "username": "bobjohnson",
+    "age": 25,
+    "role": "user",
+    "createdAt": "2024-01-20T09:15:00Z",
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Alice Brown",
+    "email": "alice.brown@example.com",
+    "username": "alicebrown",
+    "age": 29,
+    "role": "moderator",
+    "createdAt": "2024-01-12T16:45:00Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Charlie Wilson",
+    "email": "charlie.wilson@example.com",
+    "username": "charliewilson",
+    "age": 35,
+    "role": "user",
+    "createdAt": "2024-01-18T11:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "1753603544301",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "age": 28,
+    "role": "user",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "1753603554617",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "age": 28,
+    "role": "user",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "isActive": true
+  }
+]

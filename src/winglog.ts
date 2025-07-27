@@ -1,6 +1,6 @@
 import { WingLog } from '@seawingai/winglog';
 
-export function winglog(): void {
+export function main(): void {
   // Create a logger instance
   const logger = new WingLog('my-app');
 
@@ -15,3 +15,5 @@ export function winglog(): void {
   // ... do some work ...
   logger.finished('Task completed', startTime);
 }
+
+main();

@@ -1,5 +1,1 @@
-import { wingdate } from './wingdate';
-import { winglog } from './winglog';
-
-wingdate();
-winglog();
+console.log('USAGE: npm run test --file=your-file-name e.g. npm run test --file=winglog');

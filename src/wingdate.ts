@@ -1,6 +1,6 @@
 import { WingDate, Recurrence } from '@seawingai/wingdate';
 
-export function wingdate(): void {
+export function main(): void {
   // Create a date instance
   const date = new WingDate('2024-01-15T10:30:00Z');
 
@@ -25,3 +25,5 @@ export function wingdate(): void {
   console.log(meetings);
   console.log(hasMeetingToday);
 }
+
+main();

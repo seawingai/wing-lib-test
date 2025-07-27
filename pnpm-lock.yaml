@@ -11,6 +11,9 @@ importers:
       '@seawingai/wingdate':
         specifier: ^1.0.1
         version: 1.0.1
+      '@seawingai/wingdb':
+        specifier: ^1.0.0
+        version: 1.0.0
       '@seawingai/winglog':
         specifier: ^1.0.1
         version: 1.0.1
@@ -43,6 +46,9 @@ packages:
 
   '@seawingai/wingdate@1.0.1':
     resolution: {integrity: sha512-K9OCrkhkeeqQk9VsvsoKWG27FHjjrMNyuyp4EJcIrQzVTh0BJ/IS97PDr5pafPa+IcWCf/M8BTZicdU/MiNsUQ==}
+
+  '@seawingai/wingdb@1.0.0':
+    resolution: {integrity: sha512-hCu311kzQQzPpDPSDy1pMJVDc8WZezqdECXWf2XDvt4tGV5/yL5iUJbgjdwQZ6qVb8Dz3YXt6jUMerz1+DPCZg==}
 
   '@seawingai/winglog@1.0.1':
     resolution: {integrity: sha512-Jsj7LT6OsPkLuRptIvYD0NtbybfhpGCLyiSWikeRnmHI6cN+ADRZauadainu4pTiocsJxzyFvrw/p4rUcE6LEg==}
@@ -272,6 +278,12 @@ snapshots:
 
   '@seawingai/wingdate@1.0.1':
     dependencies:
+      luxon: 3.7.1
+      rrule: 2.8.1
+
+  '@seawingai/wingdb@1.0.0':
+    dependencies:
+      '@seawingai/winglog': 1.0.1
       luxon: 3.7.1
       rrule: 2.8.1
 

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../ai-marketing-agent/server/libs"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../wingdb"
+		}
+	],
+	"settings": {}
+}
